@@ -3,3 +3,5 @@
 16 Ocak 2021 Engin Demiroğ Tarafından Yapılan Kampın Ders Notları
 # Update 23 Ocak 2021
 20 Ocak 2021 Engin Demiroğ Tarafından Yapılan Kampın Ders Notları
+# Update 26 Ocak 2021
+23 Ocak 2021 Engin Demiroğ Tarafından Yapılan Kampın Ders Notları
